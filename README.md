@@ -3,7 +3,11 @@
 Send a message every X seconds for testing battery usage.
 
 ## Installation
-Install the packages `npm install`
+`git clone https://github.com/rushatgabhane/spamYourself.git`
+
+`cd spamYourself`
+
+`npm install`
 
 ## Usage
 Run the script `npm start`
