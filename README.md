@@ -1,6 +1,6 @@
 # spamYourself
 
-Send a message every X seconds for testing battery usage.
+Send a message to your phone every X seconds for testing battery usage.
 
 ## Installation
 `git clone https://github.com/rushatgabhane/spamYourself.git`
